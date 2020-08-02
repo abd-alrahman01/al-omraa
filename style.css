@@ -1,0 +1,148 @@
+
+*{
+    padding: 0px;
+    margin: opx;
+}
+header{
+    width: 100%;
+    height: 100px;
+}
+#main{
+    position: relative;
+    width: 100%;
+    height: 800px;
+}
+#article{
+    position: absolute;
+    width: 630px;
+    height: 450px;
+    margin-top: 20px;
+    right: 330px;
+    text-align: center;
+    background-color: rgba(247, 219, 59, 0.658);
+    border: 3px solid rgba(255, 91, 91, 0.774);
+    border-radius: 20px;
+}
+#article1{
+    position: absolute;
+    width: 290px;
+    height: 450px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+#imgar1{
+    border: 3px solid rgba(255, 91, 91, 0.774);
+    border-radius: 20px; 
+}
+#img2{
+    border: 3px solid rgba(255, 91, 91, 0.774);
+    border-radius: 20px;
+}
+#article2{
+    position: absolute;
+    width: 290px;
+    height: 450px;
+    margin-top: 20px;
+    margin-right: 1000px;
+    border-radius: 20px;
+}
+#p{
+    width: 100%;
+    font-size: 20px;
+    font-family: 'Reem Kufi', sans-serif;
+}
+#m{
+    width: 100%;
+    height: 250px;
+}
+#img1{
+    height: 250px;
+}
+#img2{
+    height: 250px;
+}
+#img3{
+    height: 250px;
+}
+#img4{
+    height: 250px;
+}
+#img5{
+    height: 250px;
+}
+#a{
+    position: fixed;
+    width: 5px;
+    height: 5px;
+    bottom: 30px;
+}
+.a1{
+    left: 30px;  
+}
+.a2{
+    left: 60px;
+}
+.a3{
+    left: 90px;
+}
+#im1{
+    width: 30px;
+}
+#im2{
+    width: 30px;
+}
+#alogo{
+    width: 45%;
+}
+#logo{
+    float: right;
+    width: 67px;
+    height: 60px;
+}
+#aspan{
+    width: 55%;
+    margin-right: 20px;
+    text-decoration: none ;
+    color: black;
+}
+#span{
+    line-height: 60px;
+    font-size: 25px;
+}
+
+#divlogo{
+    width: 15%;
+}
+
+table{
+    float: left;
+    width: 85%;
+    height: 60px;
+    color: white;
+}
+.th{
+    background: red;
+    width: 33%;
+    transition: 1s background;
+}
+.th:hover{
+    background: white;
+    color: red;
+    
+}
+.a{
+    text-decoration: none;
+    color: black;
+}
+.a:hover{
+    color: red;
+}
+#t{
+    width: 500px;
+    height: 200px;
+    resize: none;
+    border-radius: 10px;
+}
+#i{
+    width: 200px;
+}
